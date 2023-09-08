@@ -7,4 +7,4 @@ class Utils:
     def formatter(num):
         binary = bin(num)
         octal = oct(num)
-        return int(binary, 2), int(octal, 8)
+        return (binary, octal)
