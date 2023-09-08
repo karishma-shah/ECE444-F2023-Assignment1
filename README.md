@@ -13,3 +13,8 @@
 ### activity 4: unit test
 <img width="1242" alt="activity4" src="https://github.com/karishma-shah/ECE444-F2023-Assignment1/assets/68983533/cc6434f6-14fb-4a25-82d1-08b261bdd6e4">
 
+### activity 5: git rebase
+<img width="552" alt="Screenshot 2023-09-08 at 3 10 23 PM" src="https://github.com/karishma-shah/ECE444-F2023-Assignment1/assets/68983533/04d855e7-5519-46df-8687-47c0f517d2bb">
+<img width="755" alt="Screenshot 2023-09-08 at 3 09 24 PM" src="https://github.com/karishma-shah/ECE444-F2023-Assignment1/assets/68983533/b9a6d5c7-e864-4ff6-a3bc-bc812876b848">
+
+
